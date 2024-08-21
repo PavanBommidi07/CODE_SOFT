@@ -1,0 +1,6 @@
+
+
+Model Evaluation Metrics:
+Naive Bayes - Accuracy: 35.30%, Precision: 0.75, Recall: 0.15, F1-score: 0.25
+Random Forest - Accuracy: 25.26%, Precision: 0.92, Recall: 0.01, F1-score: 0.02
+Gradient Boosting - Accuracy: 35.88%, Precision: 0.44, Recall: 0.25, F1-score: 0.32
